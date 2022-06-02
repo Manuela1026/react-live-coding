@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+} 
+
+.App-content {
+  background-color: #000508;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px + 3vmin);
+  padding: 32px;
+  color: white;
+  image-orientation:from-image;
+}
+
+button {
+  font-size: 50px;
+}
+
+a {
+  color: rgb(96, 14, 71);
+  font-size: 30px;
+}
+
+input {
+  font-size: 50px;
+}
+
+
